@@ -13,6 +13,7 @@
    *  What is the churn probability distribution among customers?
 
 ## Dashboard Interaction
-     
+    <a href=" https://github.com/Pranali02-hub/Data-Analysis-Dashboard/blob/main/sales%20and%20customer%20insights.pbix"> View Dashboard</a>
+
 
 
